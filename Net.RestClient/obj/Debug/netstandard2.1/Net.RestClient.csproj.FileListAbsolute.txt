@@ -1,0 +1,9 @@
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\bin\Debug\netstandard2.1\Net.RestClient.deps.json
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\bin\Debug\netstandard2.1\Net.RestClient.dll
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\bin\Debug\netstandard2.1\Net.RestClient.pdb
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.csprojAssemblyReference.cache
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.AssemblyInfoInputs.cache
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.AssemblyInfo.cs
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.csproj.CoreCompileInputs.cache
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.dll
+C:\Projects\NetCore\Net.RestClient\Net.RestClient\obj\Debug\netstandard2.1\Net.RestClient.pdb
